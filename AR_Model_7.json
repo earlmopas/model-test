@@ -1,0 +1,23 @@
+{
+    "metadata":{
+        "version":4.4,
+        "type":"Object",
+        "generator":"io_three",
+        "sourceFile":"AR_Model_7.blend"
+    },
+    "geometries":[],
+    "materials":[],
+    "images":[],
+    "textures":[],
+    "animations":[{
+        "name":"default",
+        "fps":24,
+        "tracks":[]
+    }],
+    "object":{
+        "uuid":"2993F1F7-845F-4068-BB9F-8A2BAFFE65E2",
+        "matrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
+        "type":"Scene",
+        "children":[]
+    }
+}
